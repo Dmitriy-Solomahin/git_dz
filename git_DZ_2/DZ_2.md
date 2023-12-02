@@ -1,4 +1,0 @@
-- comit 1
-- 
-- comit 3
-- comit 2
